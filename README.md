@@ -1,4 +1,4 @@
-<h1> Welcome! I am <b><i>Jameson Kolesar</i></b>, need IT assistance?</h1>
+<h1> Welcome! I am <b><i><a href="https://linkedin.com/in/Jameson-Kolesar">Jameson Kolesar</a></i></b>, need IT Assistance?</h1>
 
 <h2>💻 Information Technology Projects:</h2>
 
