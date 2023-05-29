@@ -1,12 +1,14 @@
   <h1>WELCOME! I am <i><a href="https://linkedin.com/in/Jameson-Kolesar">Jameson Kolesar</a></i>, need IT assistance?</h1>
 
-<h2>💻 Information Technology Projects:</h2>
+<h1>💻 Information Technology Projects:</h1>
+<h2><img src="https://i.imgur.com/9HypTQ0.png" height="5%" width="10%" alt="osTicket Logo"/></h2>
 
-- <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/JTYKolesar/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/JTYKolesar/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/JTYKolesar/ticket-lifecycle)
-- <b>Microsoft Azure</b>
+
+<h2><img src="https://i.imgur.com/1DDZ4Ui.png" height="5%" width="15%" alt="Microsoft Azure Logo"/></h2>
+
   - [Creating a FREE Azure Subscription](https://github.com/JTYKolesar/azure-freesubs-signup)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/JTYKolesar/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/JTYKolesar/azure-network-protocols)
