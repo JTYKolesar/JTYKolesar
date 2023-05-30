@@ -9,7 +9,7 @@
 
 <img src="https://i.imgur.com/1DDZ4Ui.png" height="5%" width="15%" alt="Microsoft Azure"/>
 
-  - [Creating a FREE Azure Subscription](https://github.com/JTYKolesar/azure-freesubs-signup)
+  - [Creating a FREE Azure Subscription](https://github.com/JTYKolesar/azure-freesubs-vm)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/JTYKolesar/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/JTYKolesar/azure-network-protocols)
   
