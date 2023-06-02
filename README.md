@@ -9,7 +9,7 @@
 
 <img src="https://i.imgur.com/1DDZ4Ui.png" height="5%" width="15%" alt="Microsoft Azure"/>
 
-  - [Setup a Subscription, Resource Group, Storage Account, and Virtual Machine in Microsoft Azure](https://github.com/JTYKolesar/azure-start)
+  - [Creating an Azure Account and Deploy a Virtual Machine](https://github.com/JTYKolesar/azure-start)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/JTYKolesar/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/JTYKolesar/azure-network-protocols)
   
