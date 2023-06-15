@@ -3,7 +3,7 @@
 <h2>💻 Information Technology Projects:</h2>
 <img src="https://i.imgur.com/KzJbWRS.png" height="5%" width="10%" alt="osTicket"/>
 
-  - [Prerequisites and Installation (in-progress)](https://github.com/JTYKolesar/osticket-prereqs)
+  - [Prerequisites and Installation](https://github.com/JTYKolesar/osticket-prereqs)
   - [Post-Installation Configuration (in-progress)](https://github.com/JTYKolesar/post-install-config)
   - [Ticket Lifecycle Examples (in-progress)](https://github.com/JTYKolesar/ticket-lifecycle)
 
