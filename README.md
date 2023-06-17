@@ -4,7 +4,7 @@
 <img src="https://i.imgur.com/KzJbWRS.png" height="5%" width="10%" alt="osTicket"/>
 
   - [Prerequisites and Installation](https://github.com/JTYKolesar/osticket-prereqs)
-  - [Post-Installation Configuration (in-progress)](https://github.com/JTYKolesar/post-install-config)
+  - [Post-Installation Configuration](https://github.com/JTYKolesar/post-install-config)
   - [Ticket Lifecycle Examples (in-progress)](https://github.com/JTYKolesar/ticket-lifecycle)
 
 <img src="https://i.imgur.com/1DDZ4Ui.png" height="5%" width="15%" alt="Microsoft Azure"/>
