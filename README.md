@@ -7,7 +7,7 @@
 
   - [Prerequisites and Installation](https://github.com/JTYKolesar/osticket-prereqs)
   - [Post-Installation Configuration](https://github.com/JTYKolesar/post-install-config)
-  - [Ticket Lifecycle Examples (in-progress)](https://github.com/JTYKolesar/ticket-lifecycle)
+  - [Ticket Lifecycle Examples](https://github.com/JTYKolesar/ticket-lifecycle)
 </details>
 
 <details open>
